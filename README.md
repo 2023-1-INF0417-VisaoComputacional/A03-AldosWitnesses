@@ -5,6 +5,9 @@ Equipe Testemunhas do Aldo: <br>
 202105854 - Lucas Brandão Rodrigues <br>
 202105855 - Lucca Emmanuel Pineli Simoes <br>
 
+[Link para o vídeo da apresentação.](https://drive.google.com/file/d/1Ac9lgJsIOxQODrRwq7r4YJBYLYqvwB43/view?usp=sharing)
+<br>
+
 # A03-Testemunhas-do-Aldo
 
 ### Título: Automatização de Audiodescrição de Vídeos Utilizando Extração de Keyframes e Image Captioning
