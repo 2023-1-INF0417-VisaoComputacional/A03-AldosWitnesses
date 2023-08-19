@@ -45,11 +45,11 @@ A descrição gerada passa por um processo de tradução, se necessário, e é c
 A implementação da metodologia é cuidadosamente planejada para garantir uma solução robusta e integrada. A combinação de várias tecnologias, desde a extração de keyframes até a conversão de texto em fala, mostra uma abordagem inovadora para automatização da audiodescrição de vídeos. A arquitetura baseada em microserviços com containers Docker oferece flexibilidade, facilitando a implementação e o gerenciamento do sistema. 
 
 ### IV. Resultados e Conclusões
-Os resultados obtidos no projeto demonstram eficiência e precisão no processo de audiodescrição. Gráficos, figuras e tabelas podem ser utilizados no relatório para ilustrar a qualidade e a rapidez das etapas individuais. A comparação com métodos existentes ou referências também reforça a relevância e o impacto do projeto na área de tecnologia assistiva.
+Os resultados obtidos no projeto demonstram eficiência e precisão no processo de audiodescrição.
 
 As lições aprendidas durante o projeto revelam a importância da integração de diversas tecnologias e serviços para criar uma solução completa e escalável. A automatização da audiodescrição não apenas promove acessibilidade, mas também representa um avanço significativo no campo. A utilização de containers Docker, por exemplo, proporcionou uma implementação mais flexível e gerenciável, sendo um aspecto crucial para o sucesso do projeto.
 
-Em conclusão, o projeto de Automatização de Audiodescrição de Vídeos Utilizando Extração de Keyframes e Image Captioning representa uma contribuição notável para a tecnologia assistiva. O uso criterioso de várias tecnologias, bibliotecas e serviços, aliado a uma arquitetura bem planejada, resultou em um processo eficiente e inovador. As conclusões tiradas reforçam a relevância do projeto e o potencial para futuras aplicações e desenvolvimentos na área. 
+O projeto de Automatização de Audiodescrição de Vídeos Utilizando Extração de Keyframes e Image Captioning representa uma contribuição notável para a tecnologia assistiva. O uso criterioso de várias tecnologias, bibliotecas e serviços, aliado a uma arquitetura bem planejada, resultou em um processo eficiente e inovador. As conclusões tiradas reforçam a relevância do projeto e o potencial para futuras aplicações e desenvolvimentos na área. 
 
 ### V. Referências
 [1] Keplerlab, “Keplerlab/katna: Tool for automating common video key-frame extraction, video compression and image auto-crop/image-resize tasks,” GitHub, https://github.com/keplerlab/katna (accessed Aug. 11, 2023). <br>
