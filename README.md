@@ -45,11 +45,24 @@ A descrição gerada passa por um processo de tradução, se necessário, e é c
 A implementação da metodologia é cuidadosamente planejada para garantir uma solução robusta e integrada. A combinação de várias tecnologias, desde a extração de keyframes até a conversão de texto em fala, mostra uma abordagem inovadora para automatização da audiodescrição de vídeos. A arquitetura baseada em microserviços com containers Docker oferece flexibilidade, facilitando a implementação e o gerenciamento do sistema. 
 
 ### IV. Resultados e Conclusões
-Os resultados obtidos no projeto demonstram eficiência e precisão no processo de audiodescrição.
+
+Para demonstrar o funcionamento do servidor, as Figuras 1 e 2 a seguir apresentam keyframes extraídos do vídeo [Charlie Chaplin - Modern Times - Roller Skating Scene](https://www.youtube.com/watch?v=kPcEFHA3X0c) (o mesmo vídeo utilizado durante a apresentação) junto com suas descrições traduzidas.
+
+![keyframe 10](keyframe10.jpeg)
+**Figura 1:** Descrição gerada pelo servidor "Uma mulher em pé na frente de um balcão em uma cozinha".
+
+<br>
+
+![keyframe 11](keyframe11.jpeg)
+**Figura 2:** Descrição gerada pelo servidor "Um homem andando por uma rua ao lado de uma mulher".
+
+<br>
+
+Os resultados obtidos no projeto demonstram eficiência e precisão suficientes no processo de audiodescrição. A própria página do modelo pré-treinado da Hugging Face indica que esse não é um modelo com desempenho estado da arte, mas sim uma demonstração da tecnologia em ação. Da mesma forma, se por um lado nosso projeto pode não atingir uma robustez suficiente para configurar um produto finalizado, ele certamente demonstra uma aplicação promissora das tecnologias envolvidas para a solução desse problema.
 
 As lições aprendidas durante o projeto revelam a importância da integração de diversas tecnologias e serviços para criar uma solução completa e escalável. A automatização da audiodescrição não apenas promove acessibilidade, mas também representa um avanço significativo no campo. A utilização de containers Docker, por exemplo, proporcionou uma implementação mais flexível e gerenciável, sendo um aspecto crucial para o sucesso do projeto.
 
-O projeto de Automatização de Audiodescrição de Vídeos Utilizando Extração de Keyframes e Image Captioning representa uma contribuição notável para a tecnologia assistiva. O uso criterioso de várias tecnologias, bibliotecas e serviços, aliado a uma arquitetura bem planejada, resultou em um processo eficiente e inovador. As conclusões tiradas reforçam a relevância do projeto e o potencial para futuras aplicações e desenvolvimentos na área. 
+O projeto de Automatização de Audiodescrição de Vídeos Utilizando Extração de Keyframes e Image Captioning representa uma demonstração notável das possibilidades para a tecnologia assistiva. O uso criterioso de várias tecnologias, bibliotecas e serviços, aliado a uma arquitetura bem planejada, resultou em um processo eficiente e inovador que pode ser refinado para o desenvolvimento de produtos não apenas lucrativos para o desenvolvedor, mas também transformadores para os usuários e suas comunidades locais como um todo. As conclusões tiradas reforçam a relevância do projeto e o potencial para futuras aplicações e desenvolvimentos na área. 
 
 ### V. Referências
 [1] Keplerlab, “Keplerlab/katna: Tool for automating common video key-frame extraction, video compression and image auto-crop/image-resize tasks,” GitHub, https://github.com/keplerlab/katna (accessed Aug. 11, 2023). <br>
